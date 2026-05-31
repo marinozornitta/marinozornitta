@@ -167,6 +167,7 @@ Atualmente atuo com integrações do ERP Lyceum utilizando Java e SQL, conectand
 
 ## 👨🏼‍💻 Full Stack
 
+- Jornada Full Stack — Hashtag Treinamentos (2025) — [Certificado](https://hashtagtreinamentos.acemlna.com/lt.php?x=3DZy~GDDJ3OaDXOt-N5HhhFy~XUpvdbxv-VjXHM5KqGc6sF__ky.1eJr23EmmN~xjuwwZ6HHI4Ga6pJ_yd5)
 - Spring Boot + React JS — Udemy (2023)
 
 ---
