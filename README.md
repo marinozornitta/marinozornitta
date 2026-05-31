@@ -159,10 +159,20 @@ Atualmente atuo com integrações do ERP Lyceum utilizando Java e SQL, conectand
 
 # 📚 Certificações & Estudos
 
-## 🚀 Desenvolvimento Moderno
+## ֎🇦🇮 Desenvolvimento Moderno
 
-- AI Code Experience — Academia das IAs (2026)
+- AI Code Experience — Academia das IAs (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/859e6721ffce9f1b524c9995e3e1cc2de43b8e02/2026-04-Treinamento_AI_Code_Experience.pdf)
+
+---
+
+## 👨🏼‍💻 Full Stack
+
 - Spring Boot + React JS — Udemy (2023)
+
+---
+
+## ☕ Java
+
 - Java COMPLETO: Programação Orientada a Objetos + Projetos — Udemy (2023)
 - Curso de Java Online — Rocketseat (2023)
 
@@ -183,7 +193,7 @@ Atualmente atuo com integrações do ERP Lyceum utilizando Java e SQL, conectand
 
 ---
 
-## ⚛️ Frontend
+## ⚛️ React
 
 - Formação React JS — Alura (2021)
 
