@@ -162,6 +162,7 @@ Atualmente atuo com integrações do ERP Lyceum utilizando Java e SQL, conectand
 ## ֎🇦🇮 Desenvolvimento Moderno
 
 - AI Code Experience — Academia das IAs (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/859e6721ffce9f1b524c9995e3e1cc2de43b8e02/2026-04-Treinamento_AI_Code_Experience.pdf)
+- Imersão Agentes de IA — Hashtag Treinamentos (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/b9ff79ac39e57d8cf4f2e6f44539930d7f1dfe7a/2026-05-Imersao_Agentes_de_IA-Hashtag.pdf)
 
 ---
 
