@@ -161,8 +161,12 @@ Atualmente atuo com integrações do ERP Lyceum utilizando Java e SQL, conectand
 
 ## ֎🇦🇮 Desenvolvimento Moderno
 
-- AI Code Experience — Academia das IAs (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/859e6721ffce9f1b524c9995e3e1cc2de43b8e02/2026-04-Treinamento_AI_Code_Experience.pdf)
+- AI Dev Workflow & Automação — Academia das IAs (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/a01e3fabaf66d4039403f164f6f4b494f178e95d/2026-09-AI_Dev_Workflow_e_Automa%C3%A7%C3%A3o-Academia_IAs.pdf)
+- Model Contexto Protocol na Prática — Academia das IAs (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/a01e3fabaf66d4039403f164f6f4b494f178e95d/2026-09-Model_Context_Protocol_Na_Pratica-Academia_IAs.pdf)
+- Engenharia de Prompt & Contexto — Academia das IAs (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/a01e3fabaf66d4039403f164f6f4b494f178e95d/2026-09-Engenharia_de_Prompt_e_Contexto-Academia_IAs.pdf)
+- Fundamentos da IA para Desenvolvimento de Software — Academia das IAs (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/a01e3fabaf66d4039403f164f6f4b494f178e95d/2026-09-Fundamentos_da_IA_para_Desenvolvimento_de_Software-Academia_IAs.pdf)
 - Imersão Agentes de IA — Hashtag Treinamentos (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/b9ff79ac39e57d8cf4f2e6f44539930d7f1dfe7a/2026-05-Imersao_Agentes_de_IA-Hashtag.pdf)
+- AI Code Experience — Academia das IAs (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/a01e3fabaf66d4039403f164f6f4b494f178e95d/2026-04-Treinamento_AI_Code_Experience-Academia_IAs.pdf)
 
 ---
 
