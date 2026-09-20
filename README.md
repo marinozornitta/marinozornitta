@@ -161,11 +161,16 @@ Atualmente atuo com integrações do ERP Lyceum utilizando Java e SQL, conectand
 
 ## ֎🇦🇮 Desenvolvimento Moderno
 
+- Crie seu próprio time de agentes de IA com o Claude — Dio (Digital Innovation One) (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/4dd9bd7eff624a9c7c48cd0a0e055f88e487be7b/2026-09-Crie_seu_pr%C3%B3prio_time_de_agentes_de_IA_com_o_Claude-DIO.pdf)
+- Imersão em Agentes de Inteligência Artificial com Claude — Dio (Digital Innovation One) (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/4dd9bd7eff624a9c7c48cd0a0e055f88e487be7b/2026-09-Imers%C3%A3o_em_Agentes_de_Intelig%C3%AAncia_Artificial_com_Claude-DIO.pdf)
+- Sessão 03: Criação do Kanban ao vivo para orquestração do seu time de Agentes de AI — Dio (Digital Innovation One) (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/4dd9bd7eff624a9c7c48cd0a0e055f88e487be7b/2026-09-Sess%C3%A3o_03_Cria%C3%A7%C3%A3o_do_Kanban_ao_vivo_para_orquestra%C3%A7%C3%A3o_do_seu_time_de_Agentes_de_AI-DIO.pdf)
+- Sessão 02: Construindo os Agentes de Inteligência Artificial Back-end, Front-end, QA e DevOps com Claude Code — Dio (Digital Innovation One) (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/4dd9bd7eff624a9c7c48cd0a0e055f88e487be7b/2026-09-Sess%C3%A3o_02_Construindo_os_Agentes_de_Intelig%C3%AAncia_Artificial_Back-end%2C_Front-end%2CQA_e_DevOps_com_Claude_Code-DIO.pdf)
 - AI Dev Workflow & Automação — Academia das IAs (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/a01e3fabaf66d4039403f164f6f4b494f178e95d/2026-09-AI_Dev_Workflow_e_Automa%C3%A7%C3%A3o-Academia_IAs.pdf)
 - Model Context Protocol na Prática — Academia das IAs (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/a01e3fabaf66d4039403f164f6f4b494f178e95d/2026-09-Model_Context_Protocol_Na_Pratica-Academia_IAs.pdf)
 - Engenharia de Prompt & Contexto — Academia das IAs (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/a01e3fabaf66d4039403f164f6f4b494f178e95d/2026-09-Engenharia_de_Prompt_e_Contexto-Academia_IAs.pdf)
 - Fundamentos da IA para Desenvolvimento de Software — Academia das IAs (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/a01e3fabaf66d4039403f164f6f4b494f178e95d/2026-09-Fundamentos_da_IA_para_Desenvolvimento_de_Software-Academia_IAs.pdf)
 - Imersão Agentes de IA — Hashtag Treinamentos (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/b9ff79ac39e57d8cf4f2e6f44539930d7f1dfe7a/2026-05-Imersao_Agentes_de_IA-Hashtag.pdf)
+- Sessão 01: Setup do Claude Code para acelerar 100x a produtividade no desenvolvimento — Dio (Digital Innovation One) (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/4dd9bd7eff624a9c7c48cd0a0e055f88e487be7b/2026-05-Sess%C3%A3o_01_Setup_do_Claude_Code_para_acelerar_100x_a_produtividade_no_desenvolvimento-DIO.pdf)
 - AI Code Experience — Academia das IAs (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/a01e3fabaf66d4039403f164f6f4b494f178e95d/2026-04-Treinamento_AI_Code_Experience-Academia_IAs.pdf)
 
 ---
