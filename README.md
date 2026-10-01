@@ -184,6 +184,7 @@ Atualmente atuo com integrações do ERP Lyceum utilizando Java e SQL, conectand
 
 ## ☕ Java
 
+- Java do zero ao avançado — Java10x (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/d1bbf900b76c5d378c5120f65be6d3e27736311d/2026-10-Java_do_zero_ao_avan%C3%A7ado-Java10x.pdf)
 - Java COMPLETO: Programação Orientada a Objetos + Projetos — Udemy (2023)
 - Curso de Java Online — Rocketseat (2023)
 
