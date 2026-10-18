@@ -161,6 +161,7 @@ Atualmente atuo com integrações do ERP Lyceum utilizando Java e SQL, conectand
 
 ## ֎🇦🇮 Desenvolvimento Moderno
 
+- Imersão Agentes Autônomos — PycodeBR Treinamentos (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/02412154ca58bb7672d91eb5553868afafa34d83/2026-09-Imers%C3%A3o_Agentes_Aut%C3%B4nomos-PycodeBR.pdf)
 - Crie seu próprio time de agentes de IA com o Claude — Dio (Digital Innovation One) (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/4dd9bd7eff624a9c7c48cd0a0e055f88e487be7b/2026-09-Crie_seu_pr%C3%B3prio_time_de_agentes_de_IA_com_o_Claude-DIO.pdf)
 - Imersão em Agentes de Inteligência Artificial com Claude — Dio (Digital Innovation One) (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/4dd9bd7eff624a9c7c48cd0a0e055f88e487be7b/2026-09-Imers%C3%A3o_em_Agentes_de_Intelig%C3%AAncia_Artificial_com_Claude-DIO.pdf)
 - Sessão 03: Criação do Kanban ao vivo para orquestração do seu time de Agentes de AI — Dio (Digital Innovation One) (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/4dd9bd7eff624a9c7c48cd0a0e055f88e487be7b/2026-09-Sess%C3%A3o_03_Cria%C3%A7%C3%A3o_do_Kanban_ao_vivo_para_orquestra%C3%A7%C3%A3o_do_seu_time_de_Agentes_de_AI-DIO.pdf)
