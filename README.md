@@ -173,6 +173,7 @@ Atualmente atuo com integrações do ERP Lyceum utilizando Java e SQL, conectand
 - Imersão Agentes de IA — Hashtag Treinamentos (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/b9ff79ac39e57d8cf4f2e6f44539930d7f1dfe7a/2026-05-Imersao_Agentes_de_IA-Hashtag.pdf)
 - Sessão 01: Setup do Claude Code para acelerar 100x a produtividade no desenvolvimento — Dio (Digital Innovation One) (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/4dd9bd7eff624a9c7c48cd0a0e055f88e487be7b/2026-05-Sess%C3%A3o_01_Setup_do_Claude_Code_para_acelerar_100x_a_produtividade_no_desenvolvimento-DIO.pdf)
 - AI Code Experience — Academia das IAs (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/a01e3fabaf66d4039403f164f6f4b494f178e95d/2026-04-Treinamento_AI_Code_Experience-Academia_IAs.pdf)
+- Workshop Vibe Coding na Prática — Comunidade Sem Codar (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/95c5d5950481d16efa5f41dce3f98e1213d40a85/2026-03-Workshop_Vibe_Coding_na_Pratica-Comunidade_Sem_Codar.png)
 
 ---
 
