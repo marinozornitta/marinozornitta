@@ -161,6 +161,8 @@ Atualmente atuo com integrações do ERP Lyceum utilizando Java e SQL, conectand
 
 ## ֎🇦🇮 Desenvolvimento Moderno
 
+- Automação Profissional com IA — Comunidade Profissionais do Futuro (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/1fc2ddeb248524f568ddd0b1c2ba3a3654e5a181/2026-11-Automacao_Profissional_com_IA-Comunidade_Profissionais_do_Futuro.pdf)
+- Programação com IA para Negócios — Comunidade Profissionais do Futuro (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/1fc2ddeb248524f568ddd0b1c2ba3a3654e5a181/2026-11-Programacao_com_IA_para_Negocios-Comunidade_Profissionais_do_Futuro.pdf)
 - Claude para Negócios — Comunidade Profissionais do Futuro (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/c3efa71569bef2131fcf2ff7ac1413583d2b9372/2026-11-Claude_para_Negocios-Comunidade_Profissionais_do_Futuro.pdf)
 - Imersão Agentes Autônomos — PycodeBR Treinamentos (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/02412154ca58bb7672d91eb5553868afafa34d83/2026-09-Imers%C3%A3o_Agentes_Aut%C3%B4nomos-PycodeBR.pdf)
 - Crie seu próprio time de agentes de IA com o Claude — Dio (Digital Innovation One) (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/4dd9bd7eff624a9c7c48cd0a0e055f88e487be7b/2026-09-Crie_seu_pr%C3%B3prio_time_de_agentes_de_IA_com_o_Claude-DIO.pdf)
