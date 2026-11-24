@@ -161,6 +161,7 @@ Atualmente atuo com integrações do ERP Lyceum utilizando Java e SQL, conectand
 
 ## ֎🇦🇮 Desenvolvimento Moderno
 
+- Produtividade Profissional com IA — Comunidade Profissionais do Futuro (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/5c4e94d86fa121f56833359252e5d8ec3b5dc04c/2026-11-Produtividade_Profissional_com_IA-Comunidade_Profissionais_do_Futuro.pdf)
 - Automação Profissional com IA — Comunidade Profissionais do Futuro (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/1fc2ddeb248524f568ddd0b1c2ba3a3654e5a181/2026-11-Automacao_Profissional_com_IA-Comunidade_Profissionais_do_Futuro.pdf)
 - Programação com IA para Negócios — Comunidade Profissionais do Futuro (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/1fc2ddeb248524f568ddd0b1c2ba3a3654e5a181/2026-11-Programacao_com_IA_para_Negocios-Comunidade_Profissionais_do_Futuro.pdf)
 - Claude para Negócios — Comunidade Profissionais do Futuro (2026) — [Certificado](https://github.com/marinozornitta/marinozornitta/blob/c3efa71569bef2131fcf2ff7ac1413583d2b9372/2026-11-Claude_para_Negocios-Comunidade_Profissionais_do_Futuro.pdf)
